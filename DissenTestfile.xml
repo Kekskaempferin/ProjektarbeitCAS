@@ -1,0 +1,1850 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+  <version>1.2</version>
+  <numberOfRecords>7770</numberOfRecords>
+  <records>
+    <record>
+      <recordSchema>marcxml</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>06332nam a2200313 c 4500</leader>
+          <controlfield tag="001">9911248988405506</controlfield>
+          <controlfield tag="005">20240219163233.0</controlfield>
+          <controlfield tag="008">220228s2022    sz ||||  m   |00| ||eng d</controlfield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(EXLNZ-41SLSP_NETWORK)991170863654905501</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="040">
+            <subfield code="a">CH-ZuSLS HSG</subfield>
+            <subfield code="b">ger</subfield>
+            <subfield code="e">rda</subfield>
+          </datafield>
+          <datafield ind1="0" ind2=" " tag="041">
+            <subfield code="a">eng</subfield>
+          </datafield>
+          <datafield ind1="7" ind2="4" tag="082">
+            <subfield code="a">330</subfield>
+            <subfield code="2">23sdnb</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="100">
+            <subfield code="a">Mauchle, Urs</subfield>
+            <subfield code="d">1984-</subfield>
+            <subfield code="4">aut</subfield>
+            <subfield code="0">(DE-588)125265927X</subfield>
+          </datafield>
+          <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">‘Neutrality of money’ revisited</subfield>
+            <subfield code="b">an integrative economic ethics and post-Keynesian perspective</subfield>
+            <subfield code="c">submitted by Urs Christian Mauchle from St. Gallen und Gossau (St. Gallen)</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="1" tag="264">
+            <subfield code="a">St. Gallen</subfield>
+            <subfield code="c">2022</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">VIII, 162 Seiten</subfield>
+            <subfield code="b">Illustrationen</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="336">
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="337">
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="338">
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="502">
+            <subfield code="b">Dissertation</subfield>
+            <subfield code="c">Universität St. Gallen</subfield>
+            <subfield code="d">2022</subfield>
+            <subfield code="o">5188</subfield>
+          </datafield>
+          <datafield ind1="3" ind2=" " tag="520">
+            <subfield code="a">‘Neutralität des Geldes’ ist ein ökonomischer Begriff dafür, dass Geldmengenänderungen nur das Preisniveau einer Volkswirtschaft beeinflussen. Weder Volkswirtschaft noch politische Philosophie haben überzeugende Antworten auf die Frage, was unter dem Begriff ‘neutrales Geld’ zu verstehen ist und ob unser heutiges Geld tatsächlich ‘neutral’ ist. Trotzdem basieren die meisten neoklassischen Modelle heute auf dem Axiom, dass Geld tatsächlich ‘neutral’ sei. Aufgrund dieser Modelle werden politische Empfehlungen formuliert und Studierende verlassen ihre Universitäten im Glauben, dass Geld ‘neutral’ sei. Die vorliegende Untersuchung will hier Orientierung schaffen. Das Ziel dieser Studie ist: erstens, den normativen Kern von ‘neutralem Geld’ zu verstehen, und zweitens, zu analysieren, ob das gegenwärtige Geldsystem, das Teilreservesystem, tatsächlich ‘neutral’ ist. Basierend auf Peter Ulrichs integrativer Wirtschaftsethik und der Idee, “das Normative zuallererst in der ökonomischen Sachlogik selbst” aufzudecken, untersucht diese Studie die inhärente Normativität der ‘Neutralität des Geldes’. Sie zeigt, dass ‘neutrales Geld’ ‘neutral’ in Bezug auf das gute Leben sein muss. Dies bedeutet, dass ‘neutrales Geld’ ein für jeden gleichermassen, bedingungslos zugängliches, sicheres Instrument sein soll, um seinen Lebensentwurf zu verfolgen. Quantitativ operationalisiert bedeutet dies, dass Geld keine inhärenten Auswirkungen auf (1) das BIP-Wachstum, (2) die Verschuldung und (3) die Einkommens- und Vermögensverteilung haben darf.  Das heutige Teilreservesystem verletzt diese Anforderungen. Basierend auf der Kredittheorie des Geldes und dem Postkeynesianismus wird gezeigt, dass es zwar keinen Hinweis gibt, dass dieses System direkte Auswirkungen auf das BIP-Wachstum hat, aber die allgemeine Struktur kapitalistischer Systeme einen Wachstumszwang verursacht. Das Teilreservesystem hat jedoch inhärente Verschuldungs- und Verteilungs-Effekte. Geldschöpfung generiert immer Schulden. Dies betrifft und destabilisiert im Besonderen das Bankensystem. Zudem führt das Teilreservesystem zu einer Umverteilung von Einkommen und Vermögen. Wenn also tatsächlich ‘neutrales Geld’ unser geldpolitisches Ziel sein soll, dann liegt ein weiter Weg vor uns, dieses zu verwirklichen.</subfield>
+          </datafield>
+          <datafield ind1="3" ind2=" " tag="520">
+            <subfield code="a">‘Neutrality of money’ is an economic shorthand expression of the idea that changes in the money supply only affect the price level of the economy and nothing else. Neither economics nor political philosophy has up-to-date answers to the question of what a proper notion of ‘neutral money’ is and whether our contemporary monetary system is ‘neutral’ or not. Nevertheless, most neoclassical economic models today are built on the axiom that money is indeed ‘neutral’. Based on those models, policy considerations are made, and young people graduate convinced that money is ‘neutral’. This study aims to provide orientation in this regard. The aim of this study is twofold: first, to understand the normative core of ‘neutral money’, and second, to analyse whether the current fractional reserve system can meet the attributes of such ‘neutral money’. Based on Peter Ulrich’s integrative economic ethics and his idea of exploring “the inherent normativity of economic rationality itself”, the thesis explores the inherent normativity of ‘neutrality of money’. The thesis shows that ‘monetary neutrality’ must be ‘neutrality’ in regard to the good life. This would mean that ‘neutral money’ must be an equally and unconditionally accessible, secure societal tool for everybody to pursue her or his individual life plan. Operationalised in quantitative terms, this means that money should not have any inherent effects on (1) GDP growth, (2) indebtedness, and (3) income and wealth distribution. However, the thesis shows that the fractional reserve system inherently violates those requirements. Based on the credit theory of money and post-Keynesianism, this thesis will prove that although there is no indication that the fractional reserve system itself has inherent effects on GDP growth, a growth imperative is induced by the general structure of capitalist economies. Yet, the fractional reserve system does have inherent effects on indebtedness and distribution. Money creation is always debt creation at the same time. This affects and destabilises the banking system in particular. Furthermore, the fractional reserve system inherently redistributes income and wealth within the economy. If indeed a ‘neutral money’ should be our monetary policy aim, that new aim requires a great effort to realise it.</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Neokeynesianismus</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4138182-8</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Wirtschaftsethik</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4066439-9</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Neutralität des Geldes</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4284301-7</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Hochschulschrift</subfield>
+            <subfield code="2">gnd-content</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Wettstein, Florian</subfield>
+            <subfield code="d">1975-</subfield>
+            <subfield code="4">dgs</subfield>
+            <subfield code="0">(DE-588)123235596</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Dembinski, Pawel H.</subfield>
+            <subfield code="d">1955-</subfield>
+            <subfield code="4">dgs</subfield>
+            <subfield code="0">(DE-588)14236648X</subfield>
+          </datafield>
+          <datafield ind1="4" ind2="2" tag="856">
+            <subfield code="3">Titelblatt und Inhaltsverzeichnis</subfield>
+            <subfield code="q">PDF</subfield>
+            <subfield code="u">https://urn.ub.unibe.ch/urn:ch:slsp:hsg:991170863654905501:ihv:pdf</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="949">
+            <subfield code="a">https://urn.ub.unibe.ch/urn:ch:slsp:hsg:991170863654905501:ihv:pdf</subfield>
+          </datafield>
+          <datafield ind1="J" ind2="1" tag="960">
+            <subfield code="a">Geldschöpfung; neutralität des Geldes; Konto; Arbeit; Kredit; Schulden; Wirtschaftsethik; Zentralbank; Lebenslauf; Prognose; Reserve; Geschäftsprozess; Postkeynesianismus; Geldbasis; Bargeld; Eigenkapital</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1="J" ind2="2" tag="960">
+            <subfield code="a">Abschlussarbeit; Basisgeldschöpfung; Nichtneutralität; Geldschöpfungsprozess; Forschungsergebnis; Verteilungseffekt; Konsumnutzung; Vermögenspreisänderung; Aussagekategorie; Bankensubjektkategorie; Bruchreservesystem; Buchhaltungsdefinition; Erscheinungsform; Forschungsbedarf; Forschungswunsch; Geldaggregat; Geldspritze; Geschäftsbankensektor; Legitimationsfrage; Makroökonomie; Nichtbankensektor; Schuldenmaschinerie; Sinnfrage; Studiendesign; Teilreservesystem; Umverteilungsmaschinerie; Wachstumsimperativ; Wachstumsspirale; Wirtschaftsobjektkategorie; Zahlungssystem</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1="J" ind2="3" tag="960">
+            <subfield code="a">integrative Sicht; allgemeine Dynamik; britische Wirtschaft; eingebaute Schuldenmaschinerie; eingebaute Umverteilungsmaschinerie; epistemische Perspektive; fraktioniertes Reservesystem; gesamter Geldschöpfungsprozess; heutige Erscheinungsform; integrative Wirtschaftsethik; kritische Reflexion; kumuliert Seigniorage; normative Grundlage; postkeynesianische Perspektive; sozioökonomische Rationalität; verschiedene Aussagekategorie; vorhandenes Vermögen; wachsende Geldmenge; wachsende Verschuldung; weiterer Forschungsbedarf; wirtschaftliches Handeln; wirtschaftsethische Sicht; wohlverstandene Neutralität; zweidimensionaler Charakter; ökonomische Grundlage</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1="J" ind2="4" tag="960">
+            <subfield code="a">Schweiz C4EXSI</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1="J" ind2="5" tag="960">
+            <subfield code="a">Centrahbank Kredit Konten; Florian Wettstein; Geldschöpfung Konsumnutzung Konten; Grundlage Integrative Wirtschaftsethik; Prof. Dr. Paul Dembinski Dissertation Nr.; Repo Kredit Konten; Reservesystem Teilnehmer Gelder; Ulrich Integrative; Universität St. Gallen Schule; Urs Christian Mauchle</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="990">
+            <subfield code="a">HSG Diss 2022 5188 PR 330</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="990">
+            <subfield code="a">CH001802601288062BA01C125880200399C29</subfield>
+            <subfield code="b">iCapture</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="AVA">
+            <subfield code="0">9911248988405506</subfield>
+            <subfield code="8">2279716520005506</subfield>
+            <subfield code="a">41SLSP_HSG</subfield>
+            <subfield code="b">HSG</subfield>
+            <subfield code="c">Ground Floor</subfield>
+            <subfield code="d">QC 320 M447</subfield>
+            <subfield code="e">available</subfield>
+            <subfield code="f">3</subfield>
+            <subfield code="g">0</subfield>
+            <subfield code="j">EG</subfield>
+            <subfield code="k">4</subfield>
+            <subfield code="p">1</subfield>
+            <subfield code="q">HSG</subfield>
+          </datafield>
+        </record>
+      </recordData>
+      <recordIdentifier>9911248988405506</recordIdentifier>
+      <recordPosition>1</recordPosition>
+    </record>
+    <record>
+      <recordSchema>marcxml</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>06281nam a2200325 c 4500</leader>
+          <controlfield tag="001">9911440572005506</controlfield>
+          <controlfield tag="005">20240624114806.0</controlfield>
+          <controlfield tag="008">231005s2022    sz |||| om   |00| ||eng d</controlfield>
+          <datafield ind1="7" ind2=" " tag="024">
+            <subfield code="a">urn:nbn:ch:bel-2264172</subfield>
+            <subfield code="2">URN</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(EXLNZ-41SLSP_NETWORK)991171346019705501</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="040">
+            <subfield code="a">CH-ZuSLS HSG</subfield>
+            <subfield code="b">ger</subfield>
+            <subfield code="e">rda</subfield>
+          </datafield>
+          <datafield ind1="0" ind2=" " tag="041">
+            <subfield code="a">eng</subfield>
+          </datafield>
+          <datafield ind1="7" ind2="4" tag="082">
+            <subfield code="a">330</subfield>
+            <subfield code="2">23sdnb</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="100">
+            <subfield code="a">Mauchle, Urs</subfield>
+            <subfield code="d">1984-</subfield>
+            <subfield code="4">aut</subfield>
+            <subfield code="0">(DE-588)125265927X</subfield>
+          </datafield>
+          <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">‘Neutrality of money’ revisited</subfield>
+            <subfield code="b">an integrative economic ethics and post-Keynesian perspective</subfield>
+            <subfield code="c">submitted by Urs Christian Mauchle from St. Gallen und Gossau (St. Gallen)</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="1" tag="264">
+            <subfield code="a">St. Gallen</subfield>
+            <subfield code="c">2022</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">1 Online-Ressource</subfield>
+            <subfield code="b">Illustrationen</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="336">
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="337">
+            <subfield code="b">c</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="338">
+            <subfield code="b">cr</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="502">
+            <subfield code="b">Dissertation</subfield>
+            <subfield code="c">Universität St. Gallen</subfield>
+            <subfield code="d">2022</subfield>
+            <subfield code="o">5188</subfield>
+          </datafield>
+          <datafield ind1="3" ind2=" " tag="520">
+            <subfield code="a">‘Neutralität des Geldes’ ist ein ökonomischer Begriff dafür, dass Geldmengenänderungen nur das Preisniveau einer Volkswirtschaft beeinflussen. Weder Volkswirtschaft noch politische Philosophie haben überzeugende Antworten auf die Frage, was unter dem Begriff ‘neutrales Geld’ zu verstehen ist und ob unser heutiges Geld tatsächlich ‘neutral’ ist. Trotzdem basieren die meisten neoklassischen Modelle heute auf dem Axiom, dass Geld tatsächlich ‘neutral’ sei. Aufgrund dieser Modelle werden politische Empfehlungen formuliert und Studierende verlassen ihre Universitäten im Glauben, dass Geld ‘neutral’ sei. Die vorliegende Untersuchung will hier Orientierung schaffen. Das Ziel dieser Studie ist: erstens, den normativen Kern von ‘neutralem Geld’ zu verstehen, und zweitens, zu analysieren, ob das gegenwärtige Geldsystem, das Teilreservesystem, tatsächlich ‘neutral’ ist. Basierend auf Peter Ulrichs integrativer Wirtschaftsethik und der Idee, “das Normative zuallererst in der ökonomischen Sachlogik selbst” aufzudecken, untersucht diese Studie die inhärente Normativität der ‘Neutralität des Geldes’. Sie zeigt, dass ‘neutrales Geld’ ‘neutral’ in Bezug auf das gute Leben sein muss. Dies bedeutet, dass ‘neutrales Geld’ ein für jeden gleichermassen, bedingungslos zugängliches, sicheres Instrument sein soll, um seinen Lebensentwurf zu verfolgen. Quantitativ operationalisiert bedeutet dies, dass Geld keine inhärenten Auswirkungen auf (1) das BIP-Wachstum, (2) die Verschuldung und (3) die Einkommens- und Vermögensverteilung haben darf.  Das heutige Teilreservesystem verletzt diese Anforderungen. Basierend auf der Kredittheorie des Geldes und dem Postkeynesianismus wird gezeigt, dass es zwar keinen Hinweis gibt, dass dieses System direkte Auswirkungen auf das BIP-Wachstum hat, aber die allgemeine Struktur kapitalistischer Systeme einen Wachstumszwang verursacht. Das Teilreservesystem hat jedoch inhärente Verschuldungs- und Verteilungs-Effekte. Geldschöpfung generiert immer Schulden. Dies betrifft und destabilisiert im Besonderen das Bankensystem. Zudem führt das Teilreservesystem zu einer Umverteilung von Einkommen und Vermögen. Wenn also tatsächlich ‘neutrales Geld’ unser geldpolitisches Ziel sein soll, dann liegt ein weiter Weg vor uns, dieses zu verwirklichen.</subfield>
+          </datafield>
+          <datafield ind1="3" ind2=" " tag="520">
+            <subfield code="a">‘Neutrality of money’ is an economic shorthand expression of the idea that changes in the money supply only affect the price level of the economy and nothing else. Neither economics nor political philosophy has up-to-date answers to the question of what a proper notion of ‘neutral money’ is and whether our contemporary monetary system is ‘neutral’ or not. Nevertheless, most neoclassical economic models today are built on the axiom that money is indeed ‘neutral’. Based on those models, policy considerations are made, and young people graduate convinced that money is ‘neutral’. This study aims to provide orientation in this regard. The aim of this study is twofold: first, to understand the normative core of ‘neutral money’, and second, to analyse whether the current fractional reserve system can meet the attributes of such ‘neutral money’. Based on Peter Ulrich’s integrative economic ethics and his idea of exploring “the inherent normativity of economic rationality itself”, the thesis explores the inherent normativity of ‘neutrality of money’. The thesis shows that ‘monetary neutrality’ must be ‘neutrality’ in regard to the good life. This would mean that ‘neutral money’ must be an equally and unconditionally accessible, secure societal tool for everybody to pursue her or his individual life plan. Operationalised in quantitative terms, this means that money should not have any inherent effects on (1) GDP growth, (2) indebtedness, and (3) income and wealth distribution. However, the thesis shows that the fractional reserve system inherently violates those requirements. Based on the credit theory of money and post-Keynesianism, this thesis will prove that although there is no indication that the fractional reserve system itself has inherent effects on GDP growth, a growth imperative is induced by the general structure of capitalist economies. Yet, the fractional reserve system does have inherent effects on indebtedness and distribution. Money creation is always debt creation at the same time. This affects and destabilises the banking system in particular. Furthermore, the fractional reserve system inherently redistributes income and wealth within the economy. If indeed a ‘neutral money’ should be our monetary policy aim, that new aim requires a great effort to realise it.</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Neokeynesianismus</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4138182-8</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Wirtschaftsethik</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4066439-9</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Neutralität des Geldes</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4284301-7</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Hochschulschrift</subfield>
+            <subfield code="2">gnd-content</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Tesi</subfield>
+            <subfield code="2">sbt12-content</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Thèses et écrits académiques</subfield>
+            <subfield code="0">(IDREF)027253139</subfield>
+            <subfield code="2">idref</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Wettstein, Florian</subfield>
+            <subfield code="d">1975-</subfield>
+            <subfield code="4">dgs</subfield>
+            <subfield code="0">(DE-588)123235596</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Dembinski, Pawel H.</subfield>
+            <subfield code="d">1955-</subfield>
+            <subfield code="4">dgs</subfield>
+            <subfield code="0">(DE-588)14236648X</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="990">
+            <subfield code="a">HSG Diss 2022 5188 EL 330</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="AVD">
+            <subfield code="a">41SLSP_HSG</subfield>
+            <subfield code="b">12101609290005506</subfield>
+            <subfield code="c">REPRESENTATION</subfield>
+            <subfield code="f">Persistent Identifier: https://nbn-resolving.de/urn:nbn:ch:bel-2264172</subfield>
+          </datafield>
+        </record>
+      </recordData>
+      <recordIdentifier>9911440572005506</recordIdentifier>
+      <recordPosition>2</recordPosition>
+    </record>
+    <record>
+      <recordSchema>marcxml</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>05467nam a2200385 c 4500</leader>
+          <controlfield tag="001">999146010105506</controlfield>
+          <controlfield tag="005">20251104084027.0</controlfield>
+          <controlfield tag="007">cr#|||||||||||</controlfield>
+          <controlfield tag="008">170221s2017    sz      om    00| | eng d</controlfield>
+          <datafield ind1="7" ind2=" " tag="024">
+            <subfield code="a">urn:nbn:ch:bel-983791</subfield>
+            <subfield code="2">URN</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(swissbib)004989465-41slsp_network</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">004989465</subfield>
+            <subfield code="9">ExL</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(IDSSG)000914601HSB01</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(EXLNZ-41SLSP_NETWORK)991108774629705501</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="040">
+            <subfield code="a">SzZuIDS HSG</subfield>
+            <subfield code="b">ger</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="d">CH-ZuSLS</subfield>
+          </datafield>
+          <datafield ind1="0" ind2="4" tag="082">
+            <subfield code="a">338.47</subfield>
+            <subfield code="2">23</subfield>
+          </datafield>
+          <datafield ind1="7" ind2="4" tag="082">
+            <subfield code="a">330</subfield>
+            <subfield code="2">23sdnb</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="084">
+            <subfield code="a">QQ 250</subfield>
+            <subfield code="2">rvk</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="100">
+            <subfield code="a">Frischeisen, Josef</subfield>
+            <subfield code="d">1986-</subfield>
+            <subfield code="0">(DE-588)1077116594</subfield>
+            <subfield code="e">Verfasser</subfield>
+            <subfield code="4">aut</subfield>
+          </datafield>
+          <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">"And now tell me how to do it"</subfield>
+            <subfield code="b">An explorative case study in new service development</subfield>
+            <subfield code="c">submitted by Josef Frischeisen from Germany</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="1" tag="264">
+            <subfield code="a">St. Gallen</subfield>
+            <subfield code="c">2017</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">1 Online-Ressource</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="336">
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="337">
+            <subfield code="b">c</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="338">
+            <subfield code="b">cr</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="502">
+            <subfield code="b">Dissertation</subfield>
+            <subfield code="c">Universität St. Gallen</subfield>
+            <subfield code="d">2017</subfield>
+            <subfield code="o">4593</subfield>
+          </datafield>
+          <datafield ind1="3" ind2=" " tag="520">
+            <subfield code="a">Unter den heutigen, kompetitiven Marktbedingungen steht es ausser Frage, dass es für Unternehmen nahezu überlebenswichtig ist, erfolgreich zu innovieren. Dies gilt zwar gleichermassen für produzierende Unternehmen und Dienstleistungsunternehmen, jedoch könnte die Wissenschaft ihre Aufmerksamkeit nicht ungleichmässiger auf diese beiden Sektoren verteilen. Während heutzutage 70% des weltweiten BIPs auf Dienstleistungen zurückzuführen sind, beschäftigt sich die Wissenschaft nach wie vor vor allem mit Produkten. Damit zeichnet sie nicht nur ein verzehrtes Bild der wirtschaftlichen Gegebenheiten, sondern verpasst es auch, Entscheidungsträgern aus dem Dienstleistungssektor relevante und umsetzbare Ratschläge mit an die Hand zu geben. Dies trifft insbesondere auf die Innovationsforschung zu, die zur Bewältigung aktueller Herausforderung im Dienstleistungssektor nur unzureichend beitragen kann. Die hier vorliegende Doktorarbeit möchte dabei helfen, diese Lücke zu schliessen. Dies sollte durch zwei Schritte passieren: Erstens, durch eine umfassende Analyse der bestehenden Literatur zu Dienstleistungsinnovationen. Zweitens, durch eine explorative Case Study. Die Analyse der vorhandenen Literatur hat erkennen lassen, dass viele der bestehenden Modelle zu Dienstleistungsinnovationen vor allem konzeptioneller Natur sind und es diesen Modellen daher nicht hinreichend gelingt, den spezifischen Merkmalen von Dienstleistungen und deren Einfluss auf den Innovationsprozess Rechnung zu tragen. Somit diente der konzeptionelle Teil der Doktorarbeit vor allem dazu, den Wirkungszusammenhang zwischen Dienstleistungsmerkmalen und Innovation eingehender zu prüfen und hierdurch ein Fundament für die empirische Erhebung zu schaffen. Die Case Study wurde zusammen mit einem Schweizer Dienstleistungsunternehmen geführt und basierte auf der Analyse von sechs Innovationsprojekten. Die Studie hat gezeigt, dass es, um erfolgreich im Dienstleistung...</subfield>
+          </datafield>
+          <datafield ind1="3" ind2=" " tag="520">
+            <subfield code="a">There is no arguing around the importance of innovation for both service and product companies in today's competitive markets. But when we look into how much attention the scientific community has paid to new product development (as opposed to new service development), a dramatic misfit between economic reality and scientific research enfolds. Services contribute 70% of world GDP, but for a long time, they have been largely neglected by research. This is not only a drastic misrepresentation of economic realities; it has also left managerial decision makers in the service sector with too little advice. This is particularly true in the field of innovation research, where the existing body of knowledge provides barely any guidance on how to successfully manage new service development. This dissertation was bound to address this gap in current knowledge and did so based on a two-folded approach. First, through an extensive literature review and, second, by applying an explorative case study. The literature review found that many of the established new service development models were conceptual in nature and did not account for the specific characteristics and/or contexts under which different new services were developed. Hence, this part of the study went on to analyse how services' distinguishing factors i.e., intangibility, heterogeneity, inseparability and perishabilityinfluence new service development. This provided a sound conceptual grounding for the subsequent case study, which was conducted together with a leading Swiss B2B services company that operates across various countries in Asia. Through the extensive analysis of seven different new service development projects, this study found that managing internal capabilities and processes is not sufficient for successful new service development. Rather, successful new service development is decided in an eco-system of three levels: The service-specific level (issues inherent to ...</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Dienstleistungsangebot</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4224244-7</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Innovationsprozess</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4161820-8</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Unternehmensbezogene Dienstleistung</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4418986-2</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="651">
+            <subfield code="a">Schweiz</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4053881-3</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Hochschulschrift</subfield>
+            <subfield code="2">gnd-content</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Tomczak, Torsten</subfield>
+            <subfield code="d">1959-</subfield>
+            <subfield code="0">(DE-588)122732383</subfield>
+            <subfield code="e">Akademischer Betreuer</subfield>
+            <subfield code="4">dgs</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Herrmann, Andreas</subfield>
+            <subfield code="d">1964-</subfield>
+            <subfield code="0">(DE-588)12117526X</subfield>
+            <subfield code="e">Akademischer Betreuer</subfield>
+            <subfield code="4">dgs</subfield>
+          </datafield>
+          <datafield ind1="4" ind2=" " tag="856">
+            <subfield code="u">http://nbn-resolving.de/urn:nbn:ch:bel-983791</subfield>
+            <subfield code="z">Volltext</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="990">
+            <subfield code="a">HSG Diss 2017 4593 EL 330</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="AVD">
+            <subfield code="a">41SLSP_HSG</subfield>
+            <subfield code="b">12101005580005506</subfield>
+            <subfield code="c">REPRESENTATION</subfield>
+            <subfield code="f">Persistent Identifier: https://nbn-resolving.de/urn:nbn:ch:bel-983791</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="AVE">
+            <subfield code="8">53120842040005506</subfield>
+            <subfield code="c">61120739390005506</subfield>
+            <subfield code="e">Available</subfield>
+            <subfield code="m">EDIS (bis 2020)</subfield>
+            <subfield code="a">41SLSP_HSG</subfield>
+            <subfield code="0">999146010105506</subfield>
+          </datafield>
+        </record>
+      </recordData>
+      <recordIdentifier>999146010105506</recordIdentifier>
+      <recordPosition>3</recordPosition>
+    </record>
+    <record>
+      <recordSchema>marcxml</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>05544nam a2200373 c 4500</leader>
+          <controlfield tag="001">999160200105506</controlfield>
+          <controlfield tag="005">20251111170021.0</controlfield>
+          <controlfield tag="008">170221s2017    sz       m    00| | eng d</controlfield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(swissbib)004993071-41slsp_network</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">004993071</subfield>
+            <subfield code="9">ExL</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(IDSSG)000916020HSB01</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(EXLNZ-41SLSP_NETWORK)991136611599705501</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="040">
+            <subfield code="a">SzZuIDS HSG</subfield>
+            <subfield code="b">ger</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="d">CH-ZuSLS</subfield>
+          </datafield>
+          <datafield ind1="0" ind2="4" tag="082">
+            <subfield code="a">338.47</subfield>
+            <subfield code="2">23</subfield>
+          </datafield>
+          <datafield ind1="7" ind2="4" tag="082">
+            <subfield code="a">330</subfield>
+            <subfield code="2">23sdnb</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="084">
+            <subfield code="a">QQ 250</subfield>
+            <subfield code="2">rvk</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="100">
+            <subfield code="a">Frischeisen, Josef</subfield>
+            <subfield code="d">1986-</subfield>
+            <subfield code="0">(DE-588)1077116594</subfield>
+            <subfield code="e">Verfasser</subfield>
+            <subfield code="4">aut</subfield>
+          </datafield>
+          <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">"And now tell me how to do it"</subfield>
+            <subfield code="b">An explorative case study in new service development</subfield>
+            <subfield code="c">submitted by Josef Frischeisen from Germany</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="1" tag="264">
+            <subfield code="a">St. Gallen</subfield>
+            <subfield code="c">2017</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">XII, 162 Seiten</subfield>
+            <subfield code="b">Illustrationen</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="336">
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="337">
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="338">
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="502">
+            <subfield code="b">Dissertation</subfield>
+            <subfield code="c">Universität St. Gallen</subfield>
+            <subfield code="d">2017</subfield>
+            <subfield code="o">4593</subfield>
+          </datafield>
+          <datafield ind1="3" ind2=" " tag="520">
+            <subfield code="a">Unter den heutigen, kompetitiven Marktbedingungen steht es ausser Frage, dass es für Unternehmen nahezu überlebenswichtig ist, erfolgreich zu innovieren. Dies gilt zwar gleichermassen für produzierende Unternehmen und Dienstleistungsunternehmen, jedoch könnte die Wissenschaft ihre Aufmerksamkeit nicht ungleichmässiger auf diese beiden Sektoren verteilen. Während heutzutage 70% des weltweiten BIPs auf Dienstleistungen zurückzuführen sind, beschäftigt sich die Wissenschaft nach wie vor vor allem mit Produkten. Damit zeichnet sie nicht nur ein verzehrtes Bild der wirtschaftlichen Gegebenheiten, sondern verpasst es auch, Entscheidungsträgern aus dem Dienstleistungssektor relevante und umsetzbare Ratschläge mit an die Hand zu geben. Dies trifft insbesondere auf die Innovationsforschung zu, die zur Bewältigung aktueller Herausforderung im Dienstleistungssektor nur unzureichend beitragen kann. Die hier vorliegende Doktorarbeit möchte dabei helfen, diese Lücke zu schliessen. Dies sollte durch zwei Schritte passieren: Erstens, durch eine umfassende Analyse der bestehenden Literatur zu Dienstleistungsinnovationen. Zweitens, durch eine explorative Case Study. Die Analyse der vorhandenen Literatur hat erkennen lassen, dass viele der bestehenden Modelle zu Dienstleistungsinnovationen vor allem konzeptioneller Natur sind und es diesen Modellen daher nicht hinreichend gelingt, den spezifischen Merkmalen von Dienstleistungen und deren Einfluss auf den Innovationsprozess Rechnung zu tragen. Somit diente der konzeptionelle Teil der Doktorarbeit vor allem dazu, den Wirkungszusammenhang zwischen Dienstleistungsmerkmalen und Innovation eingehender zu prüfen und hierdurch ein Fundament für die empirische Erhebung zu schaffen. Die Case Study wurde zusammen mit einem Schweizer Dienstleistungsunternehmen geführt und basierte auf der Analyse von sechs Innovationsprojekten. Die Studie hat gezeigt, dass es, um erfolgreich im Dienstleistung...</subfield>
+          </datafield>
+          <datafield ind1="3" ind2=" " tag="520">
+            <subfield code="a">There is no arguing around the importance of innovation for both service and product companies in today's competitive markets. But when we look into how much attention the scientific community has paid to new product development (as opposed to new service development), a dramatic misfit between economic reality and scientific research enfolds. Services contribute 70% of world GDP, but for a long time, they have been largely neglected by research. This is not only a drastic misrepresentation of economic realities; it has also left managerial decision makers in the service sector with too little advice. This is particularly true in the field of innovation research, where the existing body of knowledge provides barely any guidance on how to successfully manage new service development. This dissertation was bound to address this gap in current knowledge and did so based on a two-folded approach. First, through an extensive literature review and, second, by applying an explorative case study. The literature review found that many of the established new service development models were conceptual in nature and did not account for the specific characteristics and/or contexts under which different new services were developed. Hence, this part of the study went on to analyse how services' distinguishing factors i.e., intangibility, heterogeneity, inseparability and perishabilityinfluence new service development. This provided a sound conceptual grounding for the subsequent case study, which was conducted together with a leading Swiss B2B services company that operates across various countries in Asia. Through the extensive analysis of seven different new service development projects, this study found that managing internal capabilities and processes is not sufficient for successful new service development. Rather, successful new service development is decided in an eco-system of three levels: The service-specific level (issues inherent to ...</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Dienstleistungsangebot</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4224244-7</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Innovationsprozess</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4161820-8</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Unternehmensbezogene Dienstleistung</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4418986-2</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="651">
+            <subfield code="a">Schweiz</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4053881-3</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Hochschulschrift</subfield>
+            <subfield code="2">gnd-content</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Tomczak, Torsten</subfield>
+            <subfield code="d">1959-</subfield>
+            <subfield code="0">(DE-588)122732383</subfield>
+            <subfield code="e">Akademischer Betreuer</subfield>
+            <subfield code="4">dgs</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Herrmann, Andreas</subfield>
+            <subfield code="d">1964-</subfield>
+            <subfield code="0">(DE-588)12117526X</subfield>
+            <subfield code="e">Akademischer Betreuer</subfield>
+            <subfield code="4">dgs</subfield>
+          </datafield>
+          <datafield ind1="4" ind2="2" tag="856">
+            <subfield code="3">Titelblatt und Inhaltsverzeichnis</subfield>
+            <subfield code="q">PDF</subfield>
+            <subfield code="u">https://urn.ub.unibe.ch/urn:ch:slsp:hsg:991136611599705501:ihv:pdf</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="949">
+            <subfield code="a">https://urn.ub.unibe.ch/urn:ch:slsp:hsg:991136611599705501:ihv:pdf</subfield>
+          </datafield>
+          <datafield ind1="J" ind2="1" tag="960">
+            <subfield code="a">Service; Forschung; wissenschaftliche Abhandlung; Erkenntnis; Kontext; Prozess; Innovation; Fallstudie; Entwicklung; Abgrenzung; Assimilation; Aufstieg; Auswahl; Konsum; Markteintritt</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1="J" ind2="2" tag="960">
+            <subfield code="a">Fallstudienforschung; Serviceentwicklung; Serviceinnovation; NSD-Prozess; Datenerhebung; Abgrenzungsperspektive; Assimilationsperspektive; Dienstleistungskonstrukt; Difo-Druck; Doktorgrad; Fallstudiendesign; Forschungsmethodik; Forschungsmöglichkeit; Forschungsphilosophie; Fragestellung; Sekundärdatenquelle</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1="J" ind2="3" tag="960">
+            <subfield code="a">erfolgreiche Serviceentwicklung; allgemein DC; dienstleistungsorientierte Logik; empirischer Teil; explorative Fallstudie; gewähltes Fallstudiendesign; internationale Beziehung; konkrete Serviceinnovation; konzeptueller Hintergrund; konzeptueller Teil; neue Dienstleistung; neues Produkt; neue Serviceentwicklung; praktischer Beitrag; regulatorischer Aspekt; theoretischer Beitrag; wichtige Erkenntnis; zukünftige Forschungsmöglichkeit</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1="J" ind2="4" tag="960">
+            <subfield code="a">Deutschland C4EUGE; Schweiz C4EXSI; Bayern C4EUGE</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1="J" ind2="5" tag="960">
+            <subfield code="a">Adam Smith; Andrea Herrmann; Difo-Druck GmbH Bamberg Abstract; Josef Frischeisen; Management Wirtschaftswissenschaften Rechtswissenschaften Sozialwissenschaften; Prof. Dr. Torsten Tomczak Dissertation Nr.; Universität St. Gallen Fakultät</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="990">
+            <subfield code="a">HSG Diss 2017 4593 PR 330</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="990">
+            <subfield code="a">CH001A417217AB0948489C1258D3F004CE2A0</subfield>
+            <subfield code="b">iCapture</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="AVA">
+            <subfield code="0">999160200105506</subfield>
+            <subfield code="8">2236700290005506</subfield>
+            <subfield code="a">41SLSP_HSG</subfield>
+            <subfield code="b">HSG</subfield>
+            <subfield code="c">Ground Floor</subfield>
+            <subfield code="d">QQ 250 F917</subfield>
+            <subfield code="e">available</subfield>
+            <subfield code="f">3</subfield>
+            <subfield code="g">0</subfield>
+            <subfield code="j">EG</subfield>
+            <subfield code="k">4</subfield>
+            <subfield code="p">1</subfield>
+            <subfield code="q">HSG</subfield>
+          </datafield>
+        </record>
+      </recordData>
+      <recordIdentifier>999160200105506</recordIdentifier>
+      <recordPosition>4</recordPosition>
+    </record>
+    <record>
+      <recordSchema>marcxml</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>05074nam a2200433 c 4500</leader>
+          <controlfield tag="001">999823830105506</controlfield>
+          <controlfield tag="005">20240926170128.0</controlfield>
+          <controlfield tag="007">cr#|||||||||||</controlfield>
+          <controlfield tag="008">180220s2018    sz      om    00| | ger d</controlfield>
+          <datafield ind1="7" ind2=" " tag="024">
+            <subfield code="a">urn:nbn:ch:bel-1094290</subfield>
+            <subfield code="2">URN</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(swissbib)005159008-41slsp_network</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">005159008</subfield>
+            <subfield code="9">ExL</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(IDSSG)000982383HSB01</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(EXLNZ-41SLSP_NETWORK)991052988959705501</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="040">
+            <subfield code="a">SzZuIDS HSG</subfield>
+            <subfield code="b">ger</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="d">CH-ZuSLS</subfield>
+          </datafield>
+          <datafield ind1="0" ind2="4" tag="082">
+            <subfield code="a">338.4791</subfield>
+            <subfield code="2">23</subfield>
+          </datafield>
+          <datafield ind1="7" ind2="4" tag="082">
+            <subfield code="a">330</subfield>
+            <subfield code="2">23sdnb</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="084">
+            <subfield code="a">QQ 925</subfield>
+            <subfield code="2">rvk</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="100">
+            <subfield code="a">Partschefeld, Gulnaz</subfield>
+            <subfield code="d">1981-</subfield>
+            <subfield code="0">(DE-588)115336588X</subfield>
+            <subfield code="e">Verfasser</subfield>
+            <subfield code="4">aut</subfield>
+          </datafield>
+          <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">"Auf der Suche nach der Bankofstrasse"</subfield>
+            <subfield code="b">das Konzept der Authentizität im Tourismus : am Beispiel der wahrgenommenen Authentizität der Destination Schweiz durch Touristen aus Russland</subfield>
+            <subfield code="c">vorgelegt von Gulnaz Partschefeld aus Russland</subfield>
+          </datafield>
+          <datafield ind1="1" ind2="3" tag="246">
+            <subfield code="a">&#132;Searching for the Bankofstrasse&#147;: The concept of authenticity in tourism &#150; with a case of perceived authenticity of Switzerland by Russian tourists</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="1" tag="264">
+            <subfield code="a">St. Gallen</subfield>
+            <subfield code="c">2018</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">1 Online-Ressource</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="336">
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="337">
+            <subfield code="b">c</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="338">
+            <subfield code="b">cr</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="502">
+            <subfield code="b">Dissertation</subfield>
+            <subfield code="c">Universität St. Gallen</subfield>
+            <subfield code="d">2018</subfield>
+            <subfield code="o">4727</subfield>
+          </datafield>
+          <datafield ind1="3" ind2=" " tag="520">
+            <subfield code="a">Die vorliegende Arbeit befasst sich mit dem Konzept der Authentizität im Tourismus und untersucht die wahrgenommene Authentizität der Destination Schweiz durch russische Touristen. Im Zentrum stehen die Konstruktion von Authentizität und die Authentizitätserfahrung der definierten Gruppe. Konkret wird die Frage gestellt, wie russische Touristen, welche die Schweiz zum ersten Mal besuchen, die Authentizität der Schweiz als Destination konstruieren. Die theoretische Basis der Arbeit bilden drei Authentitizätskonzepte: MacCannells Staged Authenticity, Urrys Konzept des Tourist Gaze sowie der Ansatz Invention of Tradition von Hobsbawm und Ranger. Vor dem Hintergrund dieser drei Konzepte wurden 29 russische Touristen in einem 3-stufigen Interviewverfahren zu ihren Vorstellungen von der Schweiz befragt. Die aus der Untersuchung resultierenden Erkenntnisse bestätigen den Konstruktionscharakter der wahrgenommenen Authentizität. Untersucht werden die charakteristischen Aspekte und Abläufe, die diesem Konstruktionsprozess zugrunde liegen (Interaktion mit lokaler Bevölkerung, Suche nach Authentizität vs. Suche nach Exotik, Informations-, Erfahrungs-, Diskursübernahme, Reflexion in Bezug auf die eigene Authentizitätserfahrung). Die anschliessende Anwendung des Modells der Authentizitätskonstruktion (Authenticity Tree) und des Konzepts der wahrgenommenen Authentizität (Authenticity Tube) auf die besagte Zielgruppe definiert den konzeptuellen Rahmen der wahrgenommenen Authentizität einer Destination.</subfield>
+          </datafield>
+          <datafield ind1="3" ind2=" " tag="520">
+            <subfield code="a">This thesis addresses the concept of authenticity in tourism and investigates how Russian tourists perceive the authenticity of Switzerland as a tourist destination. At the heart of this process lie the perception, experience, and construction of authenticity by the aforementioned social group. Specifically, the thesis investigates how Russian tourists who travel to Switzerland for the first time in their lives construct an image of Switzerland as an authentic tourist destination. Three classic theories of authenticity form the theoretical foundation of this research project: MacCannell&#146;s Staged Authenticity, Urry&#146;s Tourist Gaze, and the Invention of Tradition approach by Hobsbawm and Ranger. Against this background, the thesis presents empirical data gathered by interviewing 29 Russian tourists three times each regarding their impressions of Switzerland. The empirical data confirms the hypothesis that authenticity is always not just perceived, but also actively constructed by tourists. The thesis thus investigates the underlying processes that drive the construction of authenticity, such as interaction with local hosts, the search for authenticity vs. the search for exoticism, information gathering, the experience of travel, engaging in discourse, and the critical reflection of one&#146;s own experience of constructing authenticity. This framework allows for the construction of a model that balances the construction of authenticity (Authenticity Tree) with the perception of authenticity (Authenticity Tube) in such a way that it accurately reflects the attitudes, experiences, and perceptions of Russian tourists visiting Switzerland.</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Gastland</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4447028-9</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Authentizität</subfield>
+            <subfield code="0">(DE-588)4193985-2</subfield>
+            <subfield code="2">gnd</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Wahrnehmung</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4064317-7</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Urlauber</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4187231-9</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Russen</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4051034-7</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="651">
+            <subfield code="a">Schweiz</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4053881-3</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Interview</subfield>
+            <subfield code="2">gnd-content</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Hochschulschrift</subfield>
+            <subfield code="2">gnd-content</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Schmid, Ulrich</subfield>
+            <subfield code="d">1965-</subfield>
+            <subfield code="0">(DE-588)129335371</subfield>
+            <subfield code="e">Akademischer Betreuer</subfield>
+            <subfield code="4">dgs</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Bieger, Thomas</subfield>
+            <subfield code="d">1961-</subfield>
+            <subfield code="0">(DE-588)120446669</subfield>
+            <subfield code="e">Akademischer Betreuer</subfield>
+            <subfield code="4">dgs</subfield>
+          </datafield>
+          <datafield ind1="4" ind2=" " tag="856">
+            <subfield code="u">http://nbn-resolving.de/urn:nbn:ch:bel-1094290</subfield>
+            <subfield code="z">Volltext</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="990">
+            <subfield code="a">HSG Diss 2018 4727 EL 300</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="AVD">
+            <subfield code="a">41SLSP_HSG</subfield>
+            <subfield code="b">12101010770005506</subfield>
+            <subfield code="c">REPRESENTATION</subfield>
+            <subfield code="f">Persistent Identifier: https://nbn-resolving.de/urn:nbn:ch:bel-1094290</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="AVE">
+            <subfield code="8">53120795570005506</subfield>
+            <subfield code="c">61120739390005506</subfield>
+            <subfield code="e">Available</subfield>
+            <subfield code="m">EDIS (bis 2020)</subfield>
+            <subfield code="a">41SLSP_HSG</subfield>
+            <subfield code="0">999823830105506</subfield>
+          </datafield>
+        </record>
+      </recordData>
+      <recordIdentifier>999823830105506</recordIdentifier>
+      <recordPosition>5</recordPosition>
+    </record>
+    <record>
+      <recordSchema>marcxml</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>04964nam a2200409 c 4500</leader>
+          <controlfield tag="001">999828840105506</controlfield>
+          <controlfield tag="005">20241010215627.0</controlfield>
+          <controlfield tag="008">180220s2018    sz       m    00| | ger d</controlfield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(swissbib)00516222X-41slsp_network</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">00516222X</subfield>
+            <subfield code="9">ExL</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(IDSSG)000982884HSB01</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(EXLNZ-41SLSP_NETWORK)991074749649705501</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="040">
+            <subfield code="a">SzZuIDS HSG</subfield>
+            <subfield code="b">ger</subfield>
+            <subfield code="e">rda</subfield>
+            <subfield code="d">CH-ZuSLS</subfield>
+          </datafield>
+          <datafield ind1="0" ind2="4" tag="082">
+            <subfield code="a">338.4791</subfield>
+            <subfield code="2">23</subfield>
+          </datafield>
+          <datafield ind1="7" ind2="4" tag="082">
+            <subfield code="a">330</subfield>
+            <subfield code="2">23sdnb</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="084">
+            <subfield code="a">QQ 925</subfield>
+            <subfield code="2">rvk</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="100">
+            <subfield code="a">Partschefeld, Gulnaz</subfield>
+            <subfield code="d">1981-</subfield>
+            <subfield code="0">(DE-588)115336588X</subfield>
+            <subfield code="e">Verfasser</subfield>
+            <subfield code="4">aut</subfield>
+          </datafield>
+          <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">"Auf der Suche nach der Bankofstrasse"</subfield>
+            <subfield code="b">das Konzept der Authentizität im Tourismus</subfield>
+            <subfield code="c">vorgelegt von Gulnaz Partschefeld aus Russland : am Beispiel der wahrgenommenen Authentizität der Destination Schweiz durch Touristen aus Russland</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="1" tag="264">
+            <subfield code="a">St. Gallen</subfield>
+            <subfield code="c">2018</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">VIII, 186 Seiten</subfield>
+            <subfield code="b">Illustrationen</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="336">
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="337">
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="338">
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="502">
+            <subfield code="b">Dissertation</subfield>
+            <subfield code="c">Universität St. Gallen</subfield>
+            <subfield code="d">2018</subfield>
+            <subfield code="o">4727</subfield>
+          </datafield>
+          <datafield ind1="3" ind2=" " tag="520">
+            <subfield code="a">Die vorliegende Arbeit befasst sich mit dem Konzept der Authentizität im Tourismus und untersucht die wahrgenommene Authentizität der Destination Schweiz durch russische Touristen. Im Zentrum stehen die Konstruktion von Authentizität und die Authentizitätserfahrung der definierten Gruppe. Konkret wird die Frage gestellt, wie russische Touristen, welche die Schweiz zum ersten Mal besuchen, die Authentizität der Schweiz als Destination konstruieren. Die theoretische Basis der Arbeit bilden drei Authentitizätskonzepte: MacCannells Staged Authenticity, Urrys Konzept des Tourist Gaze sowie der Ansatz Invention of Tradition von Hobsbawm und Ranger. Vor dem Hintergrund dieser drei Konzepte wurden 29 russische Touristen in einem 3-stufigen Interviewverfahren zu ihren Vorstellungen von der Schweiz befragt. Die aus der Untersuchung resultierenden Erkenntnisse bestätigen den Konstruktionscharakter der wahrgenommenen Authentizität. Untersucht werden die charakteristischen Aspekte und Abläufe, die diesem Konstruktionsprozess zugrunde liegen (Interaktion mit lokaler Bevölkerung, Suche nach Authentizität vs. Suche nach Exotik, Informations-, Erfahrungs-, Diskursübernahme, Reflexion in Bezug auf die eigene Authentizitätserfahrung). Die anschliessende Anwendung des Modells der Authentizitätskonstruktion (Authenticity Tree) und des Konzepts der wahrgenommenen Authentizität (Authenticity Tube) auf die besagte Zielgruppe definiert den konzeptuellen Rahmen der wahrgenommenen Authentizität einer Destination.</subfield>
+          </datafield>
+          <datafield ind1="3" ind2=" " tag="520">
+            <subfield code="a">This thesis addresses the concept of authenticity in tourism and investigates how Russian tourists perceive the authenticity of Switzerland as a tourist destination. At the heart of this process lie the perception, experience, and construction of authenticity by the aforementioned social group. Specifically, the thesis investigates how Russian tourists who travel to Switzerland for the first time in their lives construct an image of Switzerland as an authentic tourist destination. Three classic theories of authenticity form the theoretical foundation of this research project: MacCannell&#146;s Staged Authenticity, Urry&#146;s Tourist Gaze, and the Invention of Tradition approach by Hobsbawm and Ranger. Against this background, the thesis presents empirical data gathered by interviewing 29 Russian tourists three times each regarding their impressions of Switzerland. The empirical data confirms the hypothesis that authenticity is always not just perceived, but also actively constructed by tourists. The thesis thus investigates the underlying processes that drive the construction of authenticity, such as interaction with local hosts, the search for authenticity vs. the search for exoticism, information gathering, the experience of travel, engaging in discourse, and the critical reflection of one&#146;s own experience of constructing authenticity. This framework allows for the construction of a model that balances the construction of authenticity (Authenticity Tree) with the perception of authenticity (Authenticity Tube) in such a way that it accurately reflects the attitudes, experiences, and perceptions of Russian tourists visiting Switzerland.</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Gastland</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4447028-9</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Authentizität</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4193985-2</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Wahrnehmung</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4064317-7</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Urlauber</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4187231-9</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Russen</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4051034-7</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="651">
+            <subfield code="a">Schweiz</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4053881-3</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Interview</subfield>
+            <subfield code="2">gnd-content</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Hochschulschrift</subfield>
+            <subfield code="2">gnd-content</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Schmid, Ulrich</subfield>
+            <subfield code="d">1965-</subfield>
+            <subfield code="0">(DE-588)129335371</subfield>
+            <subfield code="e">Akademischer Betreuer</subfield>
+            <subfield code="4">dgs</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Bieger, Thomas</subfield>
+            <subfield code="d">1961-</subfield>
+            <subfield code="0">(DE-588)120446669</subfield>
+            <subfield code="e">Akademischer Betreuer</subfield>
+            <subfield code="4">dgs</subfield>
+          </datafield>
+          <datafield ind1="4" ind2="2" tag="856">
+            <subfield code="3">Titelblatt und Inhaltsverzeichnis</subfield>
+            <subfield code="q">PDF</subfield>
+            <subfield code="u">https://urn.ub.unibe.ch/urn:ch:slsp:hsg:991074749649705501:ihv:pdf</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="949">
+            <subfield code="a">https://urn.ub.unibe.ch/urn:ch:slsp:hsg:991074749649705501:ihv:pdf</subfield>
+          </datafield>
+          <datafield ind1="J" ind2="1" tag="960">
+            <subfield code="a">Konstruktion; Konzept; Erhebung; wissenschaftliche Abhandlung; Ebene; Forschung; Reise; Erfahrung; Unterstützung; Arbeit; Prognose; Rechtswissenschaft; Diskurs; Etappe; Lebenslauf; Erwartung; Abriss; Abstract; Feld; Horizont; Schweiz; wissenschaftliche Methode</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1="J" ind2="2" tag="960">
+            <subfield code="a">Authentizitätskonstruktion; Datenerhebung; Authentizitätserfahrung; IT-Unterstützung; Authentizitätsdiskurs; Diskursübernahme; Erwartungshorizont; Expertenebene; Forschungsfeld; Forschungsfrage; Fremdverstehen; Kurzlebenslauf; Modellerklärung; Problemfall; Touristen-Ebene; Qualitätskriterium; Transkriptionsregel; Bezugsrahmen; Difo-Druck; Diskursbegriff; Forschungsstand; Leitfaden; Leitfragebogen; Reisebeweggrund</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1="J" ind2="3" tag="960">
+            <subfield code="a">qualitativer Ansatz; diskursbildende Information; diskursbildender Marker; dritte Etappe; eigene Authentizitätserfahrung; einleitender Wegweiser; erste Etappe; individuelle Ebene; internationale Beziehung; kulturhistorischer Abriss; lokaler Authentizitätsdiskurs; lokale Bevölkerung; methodischer Ansatz; osteuropäischer Kontext; quantitativer Ansatz; theoretischer Bezugsrahmen; wahrgenommene Authentizität; zugrundeliegender Ansatz; zusammenfassendes Konzept; zweite Etappe</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1="J" ind2="4" tag="960">
+            <subfield code="a">Russland C4EXRU; Schweiz C4EXSI; Bayern C4EUGE</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1="J" ind2="5" tag="960">
+            <subfield code="a">Authentizität Individuelle Ebene; Authentizität Kollektive Ebene; Dean Mac Cannells Staged Authenticity; Difo-Druck GmbH Bamberg; Dr. Ulrich Schmid; Eric Hobsbawm; Gulnaz Partschefeld; Herr Prof.; John Urry; Prof. Dr. Thomas Bieger Dissertation Nr.; Schweiz Kulturhistorischer Abriss; St. Gallen</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="990">
+            <subfield code="a">HSG Diss 2018 4727 PR 300</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="990">
+            <subfield code="a">CH0011C57E3BC114D1E57C1258BAB00272173</subfield>
+            <subfield code="b">iCapture</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="AVA">
+            <subfield code="0">999828840105506</subfield>
+            <subfield code="8">2241888730005506</subfield>
+            <subfield code="a">41SLSP_HSG</subfield>
+            <subfield code="b">HSG</subfield>
+            <subfield code="c">Ground Floor</subfield>
+            <subfield code="d">QQ 925 P275</subfield>
+            <subfield code="e">available</subfield>
+            <subfield code="f">3</subfield>
+            <subfield code="g">0</subfield>
+            <subfield code="j">EG</subfield>
+            <subfield code="k">4</subfield>
+            <subfield code="p">1</subfield>
+            <subfield code="q">HSG</subfield>
+          </datafield>
+        </record>
+      </recordData>
+      <recordIdentifier>999828840105506</recordIdentifier>
+      <recordPosition>6</recordPosition>
+    </record>
+    <record>
+      <recordSchema>marcxml</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>02175nam a2200505 c 4500</leader>
+          <controlfield tag="001">994679150105506</controlfield>
+          <controlfield tag="005">20260430171557.0</controlfield>
+          <controlfield tag="008">201012s2008    sz       m    00| | ger^^</controlfield>
+          <datafield ind1=" " ind2=" " tag="019">
+            <subfield code="a">Catalogage: décrit l'ex. de thèse</subfield>
+            <subfield code="5">RERO/nebpun/09.2008/3302</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(swissbib)237322196-41slsp_network</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">237322196</subfield>
+            <subfield code="9">ExL</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(IDSSG)000467915HSB01</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(RERO)R004837754-41slsp</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(IDSBB)004676816DSV01</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(NEBIS)005669017EBI01</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(EXLNZ-41SLSP_NETWORK)991086907579705501</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="040">
+            <subfield code="a">SzZuIDS HSG</subfield>
+            <subfield code="b">ger</subfield>
+            <subfield code="e">kids</subfield>
+            <subfield code="d">CH-ZuSLS</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="044">
+            <subfield code="a">sz</subfield>
+            <subfield code="c">ch-sg</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="072">
+            <subfield code="a">se</subfield>
+            <subfield code="2">rero</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="072">
+            <subfield code="a">bw</subfield>
+            <subfield code="2">SzZuIDS BS/BE</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="072">
+            <subfield code="a">if</subfield>
+            <subfield code="2">SzZuIDS BS/BE</subfield>
+          </datafield>
+          <datafield ind1="0" ind2="4" tag="082">
+            <subfield code="a">658.403</subfield>
+            <subfield code="2">22</subfield>
+          </datafield>
+          <datafield ind1="1" ind2="4" tag="082">
+            <subfield code="a">004</subfield>
+            <subfield code="2">15</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="084">
+            <subfield code="a">QC 020</subfield>
+            <subfield code="2">rvk</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="100">
+            <subfield code="a">Hetzler, Sebastian</subfield>
+            <subfield code="0">(RERO)A014180683</subfield>
+            <subfield code="4">cre</subfield>
+          </datafield>
+          <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">"Brain supporting environments" für Entscheide in komplexen Systemen</subfield>
+            <subfield code="b">ein kybernetischer Ansatz für die Gestaltung wirksamer Entscheidungsumfelder</subfield>
+            <subfield code="c">von Sebastian Hetzler</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="1" tag="264">
+            <subfield code="a">St. Gallen</subfield>
+            <subfield code="c">2008</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">343 S.</subfield>
+            <subfield code="b">Ill.</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="336">
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="337">
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="338">
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="502">
+            <subfield code="b">Dissertation</subfield>
+            <subfield code="c">Universität St. Gallen</subfield>
+            <subfield code="d">2008</subfield>
+            <subfield code="o">Nr. 3459</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">complexité</subfield>
+            <subfield code="0">(RERO)A010067249</subfield>
+            <subfield code="2">rerovoc</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Cybernétique</subfield>
+            <subfield code="0">(IDREF)027812375</subfield>
+            <subfield code="2">idref</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">organisation (organisme) - gestion</subfield>
+            <subfield code="0">(RERO)A010126170</subfield>
+            <subfield code="2">rerovoc</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Prise de décision</subfield>
+            <subfield code="0">(IDREF)027466655</subfield>
+            <subfield code="2">idref</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Entscheidungsfindung</subfield>
+            <subfield code="0">(DE-588)4113446-1</subfield>
+            <subfield code="2">gnd</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Komplexes System</subfield>
+            <subfield code="0">(DE-588)4114261-5</subfield>
+            <subfield code="2">gnd</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Organisationsstruktur</subfield>
+            <subfield code="0">(DE-588)4115464-2</subfield>
+            <subfield code="2">gnd</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Entscheidungsunterstützungssystem</subfield>
+            <subfield code="0">(DE-588)4191815-0</subfield>
+            <subfield code="2">gnd</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Hochschulschrift</subfield>
+            <subfield code="2">gnd-content</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Malik, Fredmund</subfield>
+            <subfield code="d">1944-</subfield>
+            <subfield code="0">(DE-588)115796975</subfield>
+            <subfield code="e">Akademischer Betreuer</subfield>
+            <subfield code="4">dgs</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Manella, Jürg</subfield>
+            <subfield code="d">1948-</subfield>
+            <subfield code="0">(DE-588)1089930674</subfield>
+            <subfield code="e">Akademischer Betreuer</subfield>
+            <subfield code="4">dgs</subfield>
+          </datafield>
+          <datafield ind1="4" ind2=" " tag="856">
+            <subfield code="3">Titelblatt und Inhaltsverzeichnis</subfield>
+            <subfield code="u">https://toc.library.ethz.ch/objects/pdf/z01_005669017_01.pdf</subfield>
+            <subfield code="q">pdf</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="900">
+            <subfield code="a">IDSZ2zbzdis200809e</subfield>
+            <subfield code="c">IDSZ2meip</subfield>
+            <subfield code="d">IDSZ2zbzswk200809d</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="949">
+            <subfield code="a">https://toc.library.ethz.ch/objects/pdf/z01_005669017_01.pdf</subfield>
+          </datafield>
+          <datafield ind1="J" ind2=" " tag="960">
+            <subfield code="a">Gruppenentscheidung; Gestaltung; Entscheidungsfindung; Planung; strategisches Management; Anforderung; Bewertung; Forschungsprogramm; Prozess; wissenschaftliche Abhandlung; Organisationsstruktur; Nachrichtenverarbeitung; Kommunikation; Nutzung; Realisierung; Einleitung; Integration; Simulation; Unterstützung; Problemlösung; Visualisierung; Environment; Fokussierung; Positionierung; Produktion; Regierung; Wahrnehmung; Abgrenzung; Auseinandersetzung; Bilderkennung; Bildung; Entwicklung; Meinung; Ordnung; Recherche; Teamarbeit; Unternehmensziel; Wissensdarstellung; Logik; Prognose; Entscheidungstheorie; Nutzen; Gestaltgesetz; Individuum; Informationstechnik</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1="J" ind2=" " tag="960">
+            <subfield code="a">Problemlösungslösung; Raumgestaltung; Erkenntnisgewinnung; Komplexitätsbewältigung; Literaturrecherche; Sitzordnung; Visualisierungsforschung; Willensbildung; Planungsprozess; Sachlogik; Flaschenhals-Organisation; Management-Cockpit-Ansatz; Dynamics-Ansatz; Entscheidungsfindungsprozess; Grundgedanke; Gruppenentscheidungsprozess; Gruppenprozess; Kleingruppe; Kommunikationstechnologie; Kundennutzen; Problemlösen; "-Ansatz; Ausgangslage; Debasing-Strategie; Forschungsmethodik; Forschungsziel; Kausalzusammenhang; Management-Cockpif-Ansatz; Managementteam; PIMS-Erfolgsgrösse; Problemlösungsstrategie; Problemstellung; Schlüsselgrösse; Situation-Awareness-Ansatz; Situationsbewusstsein; Steuerungsgrösse; Systemmethode; Systemmodellierungsansatz; Untersuchungseinheit; WarRoom-Ansatz; Begriffsverständnis; Bestimmungsgrund; Entscheidungsumfeld; Entstehungsgeschichte; Erfolgspotenzial; Forschungsbedarf; Groupthink-Syndrom; Grundmodell; Harrison-Steven; Hintergrund; Inhaltsübersicht; Kernfaktor; Kommunikationsmuster; Leistungsverhalten; Lenkungsmechanismus; Literaturverzeichnis; Memory-System; Mensch-Maschine-Interface; PIMS-Erkenntnis; PIMS-Forschungsprogramm; Real-Time-Information; Real-Time-Monitoring-System; Rosch-Druck; Sensitivitätsmodell; Systemmodell; Unternehmenserfolg; Zusammenfassender</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1="J" ind2=" " tag="960">
+            <subfield code="a">aufgabenbezogenes Modell; bewusste Entscheidungsfindung; theoretische Perspektive; chilenische Volkswirtschaft; dominantes System; evolutionäre Überlagerung; externe Wissensrepräsentation; große Gruppe; grundlegender Lenkungsmechanismus; gruppendynamischer Effekt; individuelle Zielsetzung; integrale Planung; kognitive Verzerrung; kognitives Werkzeug; komplexe Entscheidungsfindung; komplexes Problem; komplexes Problemlösen; komplexe Situation; komplexes System; kritische Reflexion; kybernetischer Ansatz; kybernetische Interpretation; lebensfähige Organisationsstruktur; lebensfähiges System; menschliche Informationsverarbeitung; mentales Modell; neue PIMS-Erkenntnis; pathologisches Muster; pathologisches System; praktische Perspektive; rationale Planung; relatives Kundennutzen; relevante Systemeigenschaft; richtige Entscheidung; serielle Mustererkennung; steuerungsrelevante Eigenschaft; strategisches Denken; strategische Entscheidungsfindung; strategische Unternehmensführung; systembezogener Einflussfaktor; technische Realisierung; theoretische Auseinandersetzung; theoretisches Konzept; unbewusste Entscheidungsfindung; weiterer Forschungsbedarf; wirksames Entscheidungsumfeld; wirksame Kommunikation; wirksame Strategie; wissenschaftliche Perspektive; wissenschaftstheoretische Positionierung; zweiter Weltkrieg</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1="J" ind2=" " tag="960">
+            <subfield code="a">Deutschland C4EUGE; Chile C3CHIL; Großbritannien C4EUUK</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1="J" ind2=" " tag="960">
+            <subfield code="a">Aloys Gälweiler; Attention Focussing; Direttissima- Prbzesses; Dr. Jürg Manella; Group Polarization; Groüp Polarization Groupthink; Herr Prof. Dr. Fredmund Malik Prof. Dr. Jürg Manella Dissertation; integral Planung Entscheidungsfindung; Malik Prof. Dr. Jürg Manella; Operations Rooms; Prof. Dr. Jürg Manella; Prof. Frederic Vester; Prof. Jay Forrester; Projekt Cyber Syn; Sebastian Hetzler; Sozio- Psychologik; strategisch Denken Entscheiden; Team- Syntegrity</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="990">
+            <subfield code="a">CH001D5E99C1E090CE92EC1257505003F1881</subfield>
+            <subfield code="b">iCapture</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="990">
+            <subfield code="a">HSG Diss 2008 3459 PR</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="AVA">
+            <subfield code="0">994679150105506</subfield>
+            <subfield code="8">2242017000005506</subfield>
+            <subfield code="a">41SLSP_HSG</subfield>
+            <subfield code="b">HSG</subfield>
+            <subfield code="c">Ground Floor</subfield>
+            <subfield code="d">QP 327 H591</subfield>
+            <subfield code="e">available</subfield>
+            <subfield code="f">3</subfield>
+            <subfield code="g">0</subfield>
+            <subfield code="j">EG</subfield>
+            <subfield code="k">4</subfield>
+            <subfield code="p">1</subfield>
+            <subfield code="q">HSG</subfield>
+          </datafield>
+        </record>
+      </recordData>
+      <recordIdentifier>994679150105506</recordIdentifier>
+      <recordPosition>7</recordPosition>
+    </record>
+    <record>
+      <recordSchema>marcxml</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>02927nam a2200673 c 4500</leader>
+          <controlfield tag="001">995189780105506</controlfield>
+          <controlfield tag="005">20260430155336.0</controlfield>
+          <controlfield tag="008">201012s2010    sz       m    00| | ger^^</controlfield>
+          <datafield ind1=" " ind2=" " tag="019">
+            <subfield code="a">Catalogage: décrit l'ex. de thèse</subfield>
+            <subfield code="5">RERO/nebpun/10.2010/3307</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(swissbib)240274997-41slsp_network</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">240274997</subfield>
+            <subfield code="9">ExL</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(IDSSG)000518978HSB01</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(RERO)R005682985-41slsp</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(NEBIS)006190459EBI01</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(IDSBB)005608795DSV01</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(EXLNZ-41SLSP_NETWORK)991056267209705501</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="040">
+            <subfield code="a">SzZuIDS HSG</subfield>
+            <subfield code="b">ger</subfield>
+            <subfield code="e">kids</subfield>
+            <subfield code="d">CH-ZuSLS</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="044">
+            <subfield code="a">sz</subfield>
+            <subfield code="c">ch-sg</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="072">
+            <subfield code="a">se</subfield>
+            <subfield code="2">rero</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="072">
+            <subfield code="a">bw</subfield>
+            <subfield code="2">SzZuIDS BS/BE</subfield>
+          </datafield>
+          <datafield ind1="0" ind2="4" tag="082">
+            <subfield code="a">332.109688</subfield>
+            <subfield code="2">22</subfield>
+          </datafield>
+          <datafield ind1="1" ind2="4" tag="082">
+            <subfield code="a">650</subfield>
+            <subfield code="2">15</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="084">
+            <subfield code="a">QQ 250</subfield>
+            <subfield code="2">rvk</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="084">
+            <subfield code="a">QP 620</subfield>
+            <subfield code="2">rvk</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="100">
+            <subfield code="a">Kurzmann, Heike</subfield>
+            <subfield code="d">1982-....</subfield>
+            <subfield code="0">(IDREF)28438707X</subfield>
+            <subfield code="4">aut</subfield>
+          </datafield>
+          <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">"Customer Co-Production"</subfield>
+            <subfield code="b">Motivation, Effizienz und Effektivität in der Dienstleistungserstellung</subfield>
+            <subfield code="c">von Heike Kurzmann</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="1" tag="264">
+            <subfield code="a">Bamberg</subfield>
+            <subfield code="c">2010</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">249 S.</subfield>
+            <subfield code="b">Ill.</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="336">
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="337">
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="338">
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="502">
+            <subfield code="b">Dissertation</subfield>
+            <subfield code="c">Universität St. Gallen</subfield>
+            <subfield code="d">2010</subfield>
+            <subfield code="o">3782</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">client</subfield>
+            <subfield code="0">(RERO)A009976376</subfield>
+            <subfield code="2">rerovoc</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">fonction de production</subfield>
+            <subfield code="0">(RERO)A009990521</subfield>
+            <subfield code="2">rerovoc</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">participation</subfield>
+            <subfield code="0">(RERO)A010128847</subfield>
+            <subfield code="2">rerovoc</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">service (activité professionnelle)</subfield>
+            <subfield code="0">(RERO)A010028092</subfield>
+            <subfield code="2">rerovoc</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">prestation de service</subfield>
+            <subfield code="0">(RERO)A010021826</subfield>
+            <subfield code="2">rerovoc</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Finanzdienstleistungsinstitut</subfield>
+            <subfield code="0">(DE-588)4535644-0</subfield>
+            <subfield code="2">gnd</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Kundenbindung</subfield>
+            <subfield code="0">(DE-588)4384508-3</subfield>
+            <subfield code="2">gnd</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Kundenmanagement</subfield>
+            <subfield code="0">(DE-588)4236865-0</subfield>
+            <subfield code="2">gnd</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Kundenorientierung</subfield>
+            <subfield code="0">(DE-588)4316837-1</subfield>
+            <subfield code="2">gnd</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Erfolgsfaktor</subfield>
+            <subfield code="0">(DE-588)4197034-2</subfield>
+            <subfield code="2">gnd</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Verbraucherzufriedenheit</subfield>
+            <subfield code="0">(DE-588)4129147-5</subfield>
+            <subfield code="2">gnd</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">ERFOLGSFAKTOREN (BETRIEBSWIRTSCHAFT)</subfield>
+            <subfield code="9">ger</subfield>
+            <subfield code="0">(ETHUDK)000032514</subfield>
+            <subfield code="2">ethudk</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">KUNDENZUFRIEDENHEIT</subfield>
+            <subfield code="9">ger</subfield>
+            <subfield code="0">(ETHUDK)000053925</subfield>
+            <subfield code="2">ethudk</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">MARKTORIENTIERTE UNTERNEHMENSFÜHRUNG</subfield>
+            <subfield code="9">ger</subfield>
+            <subfield code="0">(ETHUDK)000060452</subfield>
+            <subfield code="2">ethudk</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Dienstleistung</subfield>
+            <subfield code="0">(DE-588)4012178-1</subfield>
+            <subfield code="2">gnd</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Prosumerismus</subfield>
+            <subfield code="0">(DE-588)4442425-5</subfield>
+            <subfield code="2">gnd</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Finanzdienstleistung</subfield>
+            <subfield code="0">(DE-588)4212226-0</subfield>
+            <subfield code="2">gnd</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="651">
+            <subfield code="a">Schweiz</subfield>
+            <subfield code="0">(DE-588)4053881-3</subfield>
+            <subfield code="2">gnd</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Umfrage</subfield>
+            <subfield code="2">gnd-content</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Hochschulschrift</subfield>
+            <subfield code="2">gnd-content</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Reinecke, Sven</subfield>
+            <subfield code="d">1967-</subfield>
+            <subfield code="6">880-01</subfield>
+            <subfield code="0">(DE-588)114848998</subfield>
+            <subfield code="4">dgs</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="880">
+            <subfield code="6">700-01/(B</subfield>
+            <subfield code="a">Reinecke, Sven</subfield>
+            <subfield code="d">1967-....</subfield>
+            <subfield code="0">(IDREF)181560097</subfield>
+            <subfield code="4">dgs</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="6">880-02</subfield>
+            <subfield code="a">Tomczak, Torsten</subfield>
+            <subfield code="d">1959-</subfield>
+            <subfield code="0">(DE-588)122732383</subfield>
+            <subfield code="4">dgs</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="880">
+            <subfield code="6">700-02/(B</subfield>
+            <subfield code="a">Tomczak, Torsten</subfield>
+            <subfield code="d">1959-....</subfield>
+            <subfield code="0">(IDREF)273130439</subfield>
+            <subfield code="4">dgs</subfield>
+          </datafield>
+          <datafield ind1="4" ind2=" " tag="856">
+            <subfield code="3">Titelblatt und Inhaltsverzeichnis</subfield>
+            <subfield code="u">https://toc.library.ethz.ch/objects/pdf/z01_006190459_01.pdf</subfield>
+            <subfield code="q">pdf</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="900">
+            <subfield code="a">IDSE5E51ANH-2010</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="900">
+            <subfield code="a">IDSZ2zbzdis201010i</subfield>
+            <subfield code="c">IDSZ2meip</subfield>
+            <subfield code="d">IDSZ2zbzswk201010d</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="949">
+            <subfield code="a">https://toc.library.ethz.ch/objects/pdf/z01_006190459_01.pdf</subfield>
+          </datafield>
+          <datafield ind1="J" ind2=" " tag="960">
+            <subfield code="a">Kunden; Integration; Leistungsmotivation; Forschung; Service-Qualität; Konzeption; wirtschaftliche Entwicklung; Abgrenzung; Ausbildung; Engagement; Personalbeurteilung; wissenschaftliche Abhandlung; Prozess; Effektivität; Nutzen; Verzeichnis; Aufbereitung; Determination; Einleitung; Erhebung; Nichtpreiswettbewerb; Unternehmensziel; sozialer Wandel; Stellung; Befragung; Controlling; Planung; Marketing; Interview; Individuum; Kriterium; Abbildung; Akquisition; Spannung</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1="J" ind2=" " tag="960">
+            <subfield code="a">Leistungserstellung; Begriffsabgrenzung; Datenaufbereitung; Datenerhebung; Kategorienbildung; Kundenengagement; Kundenmotivation; Leitfadenentwicklung; Self-Determination; Kundentype; Marketing-Controlling; Dienstleistungserstellungsprozess; Kundenintegrationstype; Ausgangslage; Ergebnisdarstellung; Expertenbefragung; Forschungsmethodik; Fragestellung; Gesprächssituation; Kundenbefragung; Kundensegmentierung; Problemstellung; Segmentierungskriterium; Stichprobenplanung; Und-Erstellung; Und-Nutzung; Abbildungsverzeichnis; Abkürzungsverzeichnis; Auswertungsstrategie; Dienstleistungsprozess; Forschungsansatz; Forschungsfrage; Forschungsprozess; Interviewstudie; Kanalwahl; Kernliteratur; Kosten-Nutzen-Abgleich; Kundenintegrationskonzept; Kundensicht; Literaturverzeichnis; Managementsicht; Schlussfolgerunge; Tabellenverzeichnis; Akquisitionsmaterial; Ansatzpunkt; Ansprechpartner; Difo-Druck; Forschungsbedarf; Forschungsdesign; Input-Transformations-Output-System; Interviewpartner; Kundenbeitrag; Kundenrolle; Mehrkanalsystem; Partnerunternehmen; Rahmenmodell; Serviceoutput; Spannungsfeld; Themengebiet; Themenschwerpunkt; Untersuchungsgegenstand</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1="J" ind2=" " tag="960">
+            <subfield code="a">potenzieller Beitrag; semi-standardisiertes Interview; branchenspezifischer Themenschwerpunkt; extrinsische Motivation; forschungsleitende Fragestellung; forschungsmethodologische Einordnung; gesellschaftliche Entwicklung; gängiges Segmentierungskriterium; intrinsischer Beitrag; intrinsische Motivation; konzeptionelle Grundlage; kritische Würdigung; kundenintegrativer Dienstleistungsprozess; mögliches Segmentierungskriterium; organisationales Gleichgewicht; potenzieller Beitrag; praktische Implikation; praktische Relevanz; problemzentriertes Interview; qualitativ KUNDENBEFRACUNG; qualitative Forschung; qualitativer Forschungsansatz; qualitative Stichprobe; relevanter Ansatz; relevantes Kriterium; theoretisch-inhaltliche Implikation; theoretisch-konzeptionelles Rahmenmodell; theoretische Grundlage; unterschiedliche Kundenintegrationstype; weiterer Forschungsbedarf; wissenschaftliche Relevanz; zentrales Themengebiet; zusätzliche Auswertung</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1="J" ind2=" " tag="960">
+            <subfield code="a">Österreich C4EUAU</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1="J" ind2=" " tag="960">
+            <subfield code="a">Begriffsabgrenzung Marketing-Controlling Marketing Performance; Customer Bffectiveness; Customer Co- Production; Customer Efficiency Self; Customer Readiness; Customer Reaoiness; Customer Seif- Sfficäcy; Dr. Sven Reinecke; Heike Kurzmann; Herr Prof. Dr. Sven Reinecke Prof. Dr. Torsten Tomczak; Marketing-Controlling Marketing Performance Measurement; Minigroup Oiscussions; potenziell Beiträge Engagement; The Struggle for Existence; theoretisch-konzeptionell Rahmenmodell Überblick; Theoryof Incentivss</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="990">
+            <subfield code="a">CH00113CE02D2BBB5AD0DC12577F5002812A6</subfield>
+            <subfield code="b">iCapture</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="990">
+            <subfield code="a">HSG Diss 2010 3782 PR</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="AVA">
+            <subfield code="0">995189780105506</subfield>
+            <subfield code="8">2237463180005506</subfield>
+            <subfield code="a">41SLSP_HSG</subfield>
+            <subfield code="b">HSG</subfield>
+            <subfield code="c">Ground Floor</subfield>
+            <subfield code="d">QQ 250 K96 C9</subfield>
+            <subfield code="e">available</subfield>
+            <subfield code="f">3</subfield>
+            <subfield code="g">0</subfield>
+            <subfield code="j">EG</subfield>
+            <subfield code="k">4</subfield>
+            <subfield code="p">1</subfield>
+            <subfield code="q">HSG</subfield>
+          </datafield>
+        </record>
+      </recordData>
+      <recordIdentifier>995189780105506</recordIdentifier>
+      <recordPosition>8</recordPosition>
+    </record>
+    <record>
+      <recordSchema>marcxml</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>05811nam a2200385 c 4500</leader>
+          <controlfield tag="001">9911689685505506</controlfield>
+          <controlfield tag="005">20251021100044.0</controlfield>
+          <controlfield tag="008">250922s2025    sz |||| om   |00| ||ger d</controlfield>
+          <datafield ind1="7" ind2=" " tag="024">
+            <subfield code="a">urn:nbn:ch:bel-hsg-11800</subfield>
+            <subfield code="2">URN</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(EXLNZ-41SLSP_NETWORK)991172623984405501</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="040">
+            <subfield code="a">CH-ZuSLS HSG</subfield>
+            <subfield code="b">ger</subfield>
+            <subfield code="e">rda</subfield>
+          </datafield>
+          <datafield ind1="0" ind2="4" tag="082">
+            <subfield code="a">330.071</subfield>
+            <subfield code="2">23</subfield>
+          </datafield>
+          <datafield ind1="7" ind2="4" tag="082">
+            <subfield code="a">330</subfield>
+            <subfield code="2">23sdnb</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="084">
+            <subfield code="a">QB 320</subfield>
+            <subfield code="2">rvk</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="100">
+            <subfield code="a">Sidler, Claudio</subfield>
+            <subfield code="d">1992-</subfield>
+            <subfield code="4">aut</subfield>
+            <subfield code="0">(DE-588)1377999289</subfield>
+          </datafield>
+          <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">"Die ökonomische Bildung"</subfield>
+            <subfield code="b">Rekonstruktionen wirtschaftsethischer Überzeugungen der Praxis</subfield>
+            <subfield code="c">vorgelegt von Claudio Sidler von Küssnacht (Schweiz)</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="1" tag="264">
+            <subfield code="a">St. Gallen</subfield>
+            <subfield code="c">2025</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">1 Online-Ressource</subfield>
+            <subfield code="b">Illustrationen</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="336">
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="337">
+            <subfield code="b">c</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="338">
+            <subfield code="b">cr</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="502">
+            <subfield code="b">Dissertation</subfield>
+            <subfield code="c">Universität St. Gallen</subfield>
+            <subfield code="d">2025</subfield>
+            <subfield code="o">5570</subfield>
+          </datafield>
+          <datafield ind1="3" ind2=" " tag="520">
+            <subfield code="a">Die vorliegende Arbeit untersucht empirisch wirtschaftsethische Überzeugungen von Wirtschaftslehrpersonen des Gymnasiums. Der Annahme folgend, dass jedes Unterrichtsangebot eine normative Positionierung beinhaltet bzw. die Gestaltungsabsicht einer normativen Orientierung folgt, wurden Interviews mit Lehrpersonen geführt und mittels der Dokumentarischen Methode analysiert. Die rekonstruierten Orientierungsmuster wurden anschliessend auf ihre wirtschaftsethischen Aspekte reflektiert. Das Resultat der dokumentarischen Analyse sind vier Idealtypen, welche sich auf einem Kontinuum zwischen Orientierung an Theorie und Orientierung an Autonomie verorten lassen. Aus den Idealtypen wurden Überzeugungen zum Wertegehalt der zu vermittelnden Theorie, zur Rolle der Theorie für die eigenständige Meinungsbildung sowie zum Wert ethischer Reflexion abgeleitet. Es lässt sich diskutieren, dass insbesondere der Umgang mit einem nicht näher bestimmbaren Theoriebestand die Unterschiede in den Typen verdeutlicht. Wird Theorie als rein deskriptiver Zugang zur Welt verstanden, so rückt das Verständnis dieser Theorie bzw. die Übernahme in die eigene Entscheidungsfindung in den Fokus (Typ 1 und 2). Steht ein Fall dem speziellen Zugang der Theorie zur Realität eher kritisch gegenüber, so zeigen sich andere Umgänge im Sinne einer normativen Kontextualisierung der Theorie im Vergleich zu Theoriealternativen (Typ 3) oder die Orientierung am eigenen Denken (Typ 4). Die Resultate zeigen, dass sich eine Diversität von Umgangsformen der Praxis rekonstruieren lässt, die sich auf einer sehr grundlegenden Ebene voneinander unterscheiden. Wie die Fälle den Geltungscharakter einer Theorie einschätzen, spielt dabei eine zentrale Rolle. Die Typologie lässt sich an bereits bestehende wirtschaftsethische und wirtschaftspädagogische theoretische Diskussionen anschliessen, was die immanente Praxisrelevanz theoretischer Auseinandersetzungen aufzeigt. Wird im Sinne einer sozioökonomischen Bildung eine stärkere paradigmatische Veränderung angestrebt, so werden Überzeugungen (angehender) Lehrpersonen zum Geltungsgehalt von Theorie als zentraler Stellhebel betrachtet werden.
+Keywords: Praxeologische Wissenssoziologie; Dokumentarische Methode; Überzeugungen</subfield>
+          </datafield>
+          <datafield ind1="3" ind2=" " tag="520">
+            <subfield code="a">This study examines the business ethical beliefs of business and economics teachers in Switzerland. Based on the assumption that every form of teaching (or the intention to design it) contains a normative positioning, interviews were conducted with teachers and analysed using the documentary method. The reconstructed orientation patterns of practice were then distilled in terms of their business ethics aspects. The results of the documentary analysis are four ideal types, which can be located on a continuum of orientation towards theory and orientation towards autonomy. Beliefs about the value content of the theory to be conveyed, the role of theory in forming independent opinions and the value of ethical reflection were derived from the ideal types. It can be argued that the handling of an indeterminable body of theory in particular illustrates the differences between the types. If theory is understood as a descriptive approach to the world, the focus is on understanding this theory and incorporating it into one's own decision-making (types 1 and 2). If a case is more critical of the theory's specific approach to reality, other ways of dealing with the situation in the sense of a normative contextualization of the theory compared to theory alternatives (type 3) or an orientation towards one's own thinking (type 4) become apparent. The results show that a diversity of practice can be reconstructed, differing from one another on a very fundamental level. How the cases assess the validity of a theory plays a central role. The typology can be linked to existing theoretical discussions on business ethics and business education, which demonstrates the intrinsic practical relevance of theoretical debates. If a stronger paradigmatic change is sought in the sense of socio-economic education, the conviction of (prospective) teachers regarding the validity of theory can be regarded as a central lever.
+Keywords: Praxeological Sociology of Knowledge; Documentary method; Beliefs</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Wirtschaftslehrer</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4190064-9</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Berufseinstellung</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4144762-1</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Wirtschaftsethik</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4066439-9</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Wirtschaftslehre</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4079346-1</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Gymnasium</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4022648-7</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="651">
+            <subfield code="a">Deutsche Schweiz</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4070352-6</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Interview</subfield>
+            <subfield code="2">gnd-content</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Hochschulschrift</subfield>
+            <subfield code="2">gnd-content</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Thèses et écrits académiques</subfield>
+            <subfield code="0">(IDREF)027253139</subfield>
+            <subfield code="2">idref</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Tesi</subfield>
+            <subfield code="2">sbt12-content</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Dilger, Bernadette</subfield>
+            <subfield code="d">1971-</subfield>
+            <subfield code="4">dgs</subfield>
+            <subfield code="0">(DE-588)1089932243</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Tafner, Georg</subfield>
+            <subfield code="4">dgs</subfield>
+            <subfield code="0">(DE-588)138930317</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="990">
+            <subfield code="a">HSG Diss 2025 5570 EL 330</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="AVD">
+            <subfield code="a">41SLSP_HSG</subfield>
+            <subfield code="b">12140170500005506</subfield>
+            <subfield code="c">REPRESENTATION</subfield>
+            <subfield code="g">6464877050005506</subfield>
+          </datafield>
+        </record>
+      </recordData>
+      <recordIdentifier>9911689685505506</recordIdentifier>
+      <recordPosition>9</recordPosition>
+    </record>
+    <record>
+      <recordSchema>marcxml</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>05946nam a2200397 c 4500</leader>
+          <controlfield tag="001">9911690696405506</controlfield>
+          <controlfield tag="005">20251028230415.0</controlfield>
+          <controlfield tag="008">250922s2025    sz ||||  m   |00| ||ger d</controlfield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(EXLNZ-41SLSP_NETWORK)991172625693405501</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="040">
+            <subfield code="a">CH-ZuSLS HSG</subfield>
+            <subfield code="b">ger</subfield>
+            <subfield code="e">rda</subfield>
+          </datafield>
+          <datafield ind1="0" ind2="4" tag="082">
+            <subfield code="a">330.071</subfield>
+            <subfield code="2">23</subfield>
+          </datafield>
+          <datafield ind1="7" ind2="4" tag="082">
+            <subfield code="a">330</subfield>
+            <subfield code="2">23sdnb</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="084">
+            <subfield code="a">QB 320</subfield>
+            <subfield code="2">rvk</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="100">
+            <subfield code="a">Sidler, Claudio</subfield>
+            <subfield code="d">1992-</subfield>
+            <subfield code="4">aut</subfield>
+            <subfield code="0">(DE-588)1377999289</subfield>
+          </datafield>
+          <datafield ind1="1" ind2="0" tag="245">
+            <subfield code="a">"Die ökonomische Bildung"</subfield>
+            <subfield code="b">Rekonstruktionen wirtschaftsethischer Überzeugungen der Praxis</subfield>
+            <subfield code="c">vorgelegt von Claudio Sidler von Küssnacht (Schweiz)</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="1" tag="264">
+            <subfield code="a">St. Gallen</subfield>
+            <subfield code="c">2025</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">IV, 266, iv Seiten</subfield>
+            <subfield code="b">Illustrationen</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="336">
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="337">
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="338">
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="502">
+            <subfield code="b">Dissertation</subfield>
+            <subfield code="c">Universität St. Gallen</subfield>
+            <subfield code="d">2025</subfield>
+            <subfield code="o">5570</subfield>
+          </datafield>
+          <datafield ind1="3" ind2=" " tag="520">
+            <subfield code="a">Die vorliegende Arbeit untersucht empirisch wirtschaftsethische Überzeugungen von Wirtschaftslehrpersonen des Gymnasiums. Der Annahme folgend, dass jedes Unterrichtsangebot eine normative Positionierung beinhaltet bzw. die Gestaltungsabsicht einer normativen Orientierung folgt, wurden Interviews mit Lehrpersonen geführt und mittels der Dokumentarischen Methode analysiert. Die rekonstruierten Orientierungsmuster wurden anschliessend auf ihre wirtschaftsethischen Aspekte reflektiert. Das Resultat der dokumentarischen Analyse sind vier Idealtypen, welche sich auf einem Kontinuum zwischen Orientierung an Theorie und Orientierung an Autonomie verorten lassen. Aus den Idealtypen wurden Überzeugungen zum Wertegehalt der zu vermittelnden Theorie, zur Rolle der Theorie für die eigenständige Meinungsbildung sowie zum Wert ethischer Reflexion abgeleitet. Es lässt sich diskutieren, dass insbesondere der Umgang mit einem nicht näher bestimmbaren Theoriebestand die Unterschiede in den Typen verdeutlicht. Wird Theorie als rein deskriptiver Zugang zur Welt verstanden, so rückt das Verständnis dieser Theorie bzw. die Übernahme in die eigene Entscheidungsfindung in den Fokus (Typ 1 und 2). Steht ein Fall dem speziellen Zugang der Theorie zur Realität eher kritisch gegenüber, so zeigen sich andere Umgänge im Sinne einer normativen Kontextualisierung der Theorie im Vergleich zu Theoriealternativen (Typ 3) oder die Orientierung am eigenen Denken (Typ 4). Die Resultate zeigen, dass sich eine Diversität von Umgangsformen der Praxis rekonstruieren lässt, die sich auf einer sehr grundlegenden Ebene voneinander unterscheiden. Wie die Fälle den Geltungscharakter einer Theorie einschätzen, spielt dabei eine zentrale Rolle. Die Typologie lässt sich an bereits bestehende wirtschaftsethische und wirtschaftspädagogische theoretische Diskussionen anschliessen, was die immanente Praxisrelevanz theoretischer Auseinandersetzungen aufzeigt. Wird im Sinne einer sozioökonomischen Bildung eine stärkere paradigmatische Veränderung angestrebt, so werden Überzeugungen (angehender) Lehrpersonen zum Geltungsgehalt von Theorie als zentraler Stellhebel betrachtet werden.Keywords: Praxeologische Wissenssoziologie; Dokumentarische Methode; Überzeugungen</subfield>
+          </datafield>
+          <datafield ind1="3" ind2=" " tag="520">
+            <subfield code="a">This study examines the business ethical beliefs of business and economics teachers in Switzerland. Based on the assumption that every form of teaching (or the intention to design it) contains a normative positioning, interviews were conducted with teachers and analysed using the documentary method. The reconstructed orientation patterns of practice were then distilled in terms of their business ethics aspects. The results of the documentary analysis are four ideal types, which can be located on a continuum of orientation towards theory and orientation towards autonomy. Beliefs about the value content of the theory to be conveyed, the role of theory in forming independent opinions and the value of ethical reflection were derived from the ideal types. It can be argued that the handling of an indeterminable body of theory in particular illustrates the differences between the types. If theory is understood as a descriptive approach to the world, the focus is on understanding this theory and incorporating it into one's own decision-making (types 1 and 2). If a case is more critical of the theory's specific approach to reality, other ways of dealing with the situation in the sense of a normative contextualization of the theory compared to theory alternatives (type 3) or an orientation towards one's own thinking (type 4) become apparent. The results show that a diversity of practice can be reconstructed, differing from one another on a very fundamental level. How the cases assess the validity of a theory plays a central role. The typology can be linked to existing theoretical discussions on business ethics and business education, which demonstrates the intrinsic practical relevance of theoretical debates. If a stronger paradigmatic change is sought in the sense of socio-economic education, the conviction of (prospective) teachers regarding the validity of theory can be regarded as a central lever.Keywords: Praxeological Sociology of Knowledge; Documentary method; Beliefs</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Wirtschaftslehrer</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4190064-9</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Berufseinstellung</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4144762-1</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Wirtschaftsethik</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4066439-9</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Wirtschaftslehre</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4079346-1</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="650">
+            <subfield code="a">Gymnasium</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4022648-7</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="651">
+            <subfield code="a">Schweiz</subfield>
+            <subfield code="2">gnd</subfield>
+            <subfield code="0">(DE-588)4053881-3</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Interview</subfield>
+            <subfield code="2">gnd-content</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Hochschulschrift</subfield>
+            <subfield code="2">gnd-content</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Thèses et écrits académiques</subfield>
+            <subfield code="0">(IDREF)027253139</subfield>
+            <subfield code="2">idref</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Tesi</subfield>
+            <subfield code="2">sbt12-content</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Dilger, Bernadette</subfield>
+            <subfield code="d">1971-</subfield>
+            <subfield code="4">dgs</subfield>
+            <subfield code="0">(DE-588)1089932243</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="700">
+            <subfield code="a">Tafner, Georg</subfield>
+            <subfield code="4">dgs</subfield>
+            <subfield code="0">(DE-588)138930317</subfield>
+          </datafield>
+          <datafield ind1="4" ind2="2" tag="856">
+            <subfield code="3">Titelblatt und Inhaltsverzeichnis</subfield>
+            <subfield code="q">PDF</subfield>
+            <subfield code="u">https://urn.ub.unibe.ch/urn:ch:slsp:hsg:991172625693405501:ihv:pdf</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="949">
+            <subfield code="a">https://urn.ub.unibe.ch/urn:ch:slsp:hsg:991172625693405501:ihv:pdf</subfield>
+          </datafield>
+          <datafield ind1="J" ind2="1" tag="960">
+            <subfield code="a">Sozialforschung; Hochschule; Überzeugung; Rekonstruktion; wissenschaftliche Abhandlung; Debatte; Erhebung; Wirtschaftspädagogik; Beziehung; Datenanalyse; Positionierung; Stichprobenverfahren; Deduktion; Rechtswissenschaft</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1="J" ind2="2" tag="960">
+            <subfield code="a">Typenbildung; Datenerhebung; Professionsforschung; Forschungsfrage; Ausgangslage; Eckfall; Forschungsprozess; Generalisierungsfähigkeit; Hilfsmittelverzeichnis; Kompetenzbestandteil; Lehrperson; Niedermann; Untersuchungsgegenstand; Deduktionsproblem; Erkenntnisinteresse; Forschungsfeld; Gütekriterium</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1="J" ind2="3" tag="960">
+            <subfield code="a">lichte Debatte; praktischer Beitrag; abschließende Betrachtung; dokumentarische Methode; gesellschaftlich-rechtlich Refererizrahmen; internationale Beziehung; internationale Informatik; kritische Reflexion; professionelles Handeln; rekonstruktive Sozialforschung; sinngenetische Typenbildung; weiterer Fall; wirtschaftsethischer Ansatz; wirtschaftsethische Überzeugung; wissenschaftlicher Beitrag; wissenschaftliche Debatte; ökonomische Bildung</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1="J" ind2="4" tag="960">
+            <subfield code="a">Schweiz C4EXSI; Schwyz C4EXSI</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1="J" ind2="5" tag="960">
+            <subfield code="a">Claudio Sidler; Dr. Bernadette Dilger; Dr. Georg Tafner; Frau Prof.; Herr Prof. Dr. Georg Tafner Dissertation Nr.; kritisch Reflexion Limitationen Desiderata; Sozialwissenschaft Internationale Beziehungen; St. Gallen; Teil Teil Empirische</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="990">
+            <subfield code="a">HSG Diss 2025 5570 PR 330</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="990">
+            <subfield code="a">CH0012ED558B68F2BC22BC1258D2A004295BA</subfield>
+            <subfield code="b">iCapture</subfield>
+            <subfield code="9">local</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="AVA">
+            <subfield code="0">9911690696405506</subfield>
+            <subfield code="8">22140340610005506</subfield>
+            <subfield code="a">41SLSP_HSG</subfield>
+            <subfield code="b">HSG</subfield>
+            <subfield code="c">Ground Floor</subfield>
+            <subfield code="d">QB 320 S568</subfield>
+            <subfield code="e">available</subfield>
+            <subfield code="f">3</subfield>
+            <subfield code="g">0</subfield>
+            <subfield code="j">EG</subfield>
+            <subfield code="k">4</subfield>
+            <subfield code="p">1</subfield>
+            <subfield code="q">HSG</subfield>
+          </datafield>
+        </record>
+      </recordData>
+      <recordIdentifier>9911690696405506</recordIdentifier>
+      <recordPosition>10</recordPosition>
+    </record>
+  </records>
+  <nextRecordPosition>11</nextRecordPosition>
+  <extraResponseData xmlns:xb="http://www.exlibris.com/repository/search/xmlbeans/">
+    <xb:exact>true</xb:exact>
+    <xb:responseDate>2026-06-01T12:18:57+0200</xb:responseDate>
+  </extraResponseData>
+</searchRetrieveResponse>
