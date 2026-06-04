@@ -22,10 +22,7 @@
           <datafield ind1="0" ind2=" " tag="041">
             <subfield code="a">eng</subfield>
           </datafield>
-          <datafield ind1="7" ind2="4" tag="082">
-            <subfield code="a">330</subfield>
-            <subfield code="2">23sdnb</subfield>
-          </datafield>
+
           <datafield ind1="1" ind2=" " tag="100">
             <subfield code="a">Mauchle, Urs</subfield>
             <subfield code="d">1984-</subfield>
@@ -181,10 +178,8 @@
           <datafield ind1="0" ind2=" " tag="041">
             <subfield code="a">eng</subfield>
           </datafield>
-          <datafield ind1="7" ind2="4" tag="082">
-            <subfield code="a">330</subfield>
-            <subfield code="2">23sdnb</subfield>
-          </datafield>
+
+          
           <datafield ind1="1" ind2=" " tag="100">
             <subfield code="a">Mauchle, Urs</subfield>
             <subfield code="d">1984-</subfield>
@@ -860,7 +855,7 @@
           <datafield ind1=" " ind2=" " tag="502">
             <subfield code="b">Dissertation</subfield>
             <subfield code="c">Universität St. Gallen</subfield>
-            <subfield code="d">2018</subfield>
+            <subfield code="d">2017</subfield>
             <subfield code="o">47270</subfield>
           </datafield>
           <datafield ind1="3" ind2=" " tag="520">
@@ -1540,7 +1535,7 @@
             <subfield code="a">Sidler, Claudio</subfield>
             <subfield code="d">1992-</subfield>
             <subfield code="4">aut</subfield>
-            <subfield code="0">(DE-588)1377999289</subfield>
+            
           </datafield>
           <datafield ind1="1" ind2="0" tag="245">
             <subfield code="a">"Die ökonomische Bildung"</subfield>
@@ -1637,7 +1632,7 @@ Keywords: Praxeological Sociology of Knowledge; Documentary method; Beliefs</sub
           <datafield ind1="1" ind2=" " tag="700">
             <subfield code="a">Tafner, Georg</subfield>
             <subfield code="4">dgs</subfield>
-            <subfield code="0">(DE-588)138930317</subfield>
+
           </datafield>
           <datafield ind1=" " ind2=" " tag="990">
             <subfield code="a">HSG Diss 2025 5570 EL 330</subfield>
