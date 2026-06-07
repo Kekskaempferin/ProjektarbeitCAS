@@ -1,17 +1,14 @@
-#Hauptdatei mit dem eigentlichen Prüfvorgang
-
 
 #Import der Module
 #Import von Modul xml.etree.ElementTree um durch die Zeilen der records zu iterieren
 import xml.etree.ElementTree as ET
 #Import von Modul xlsxwriter, zum Erstellen eines Excel Files als Output
 import xlsxwriter
-#import von Functions.py für Zugriff auf die dort geschriebenen Funktionen und Variablen
-import Functions
+
 
 
 # Variabeln definieren
-ns = {"marc": "http://www.loc.gov/MARC21/slim"}
+ns = {"marc": "http://www.loc.gov/MARC21/slim"} 
 content = [("MMSID", "Fehlertext")] #Liste für mmsid und Fehlertext, die später ins Excel geschrieben werden inkl. subListe für "Titelzeile"
 
 fehlerliste = [] #Liste für die Fehler ohne die MMSID pro Datensatz
